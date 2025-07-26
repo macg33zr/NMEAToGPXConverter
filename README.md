@@ -80,8 +80,6 @@ VSCode can be obtained from here for Mac, Windows or Linux platforms: https://co
 
 A version of VSCode is also included with the Anaconda install environment.
 
-![Screenshot 2023-02-17 at 18 55 14](https://user-images.githubusercontent.com/916460/219761707-77a280bc-1488-478a-a3bd-16ea30a0f568.png)
-
 
 
 
