@@ -1,6 +1,6 @@
 # Convert NMEA Files tp GPX
 
-Python / Jupyter Lab to convert NNMEA GPS files with .LOG extension to GPX format
+Python / Jupyter Lab project to convert NNMEA GPS files with .LOG extension to GPX format
 
 I use the OM System OM Share app to GeoTag my photos. When the photos are geotagged using the app, on 
 the camera SD card it creates some GPS log files under the GPSLOG folder. They have the file extension
